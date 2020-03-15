@@ -338,3 +338,11 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/FacebookSDK
+/Temp
+/ProjectSettings
+/Library
+/Assets/TextMesh Pro
+/Assets/Scenes
+/Assets/PlayServicesResolver/Editor
+/Screen.png
